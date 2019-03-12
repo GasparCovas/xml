@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE questions SYSTEM "dtd.dtd">
+<questions>
+	<question>
+		<type>text</type>
+		<title>¿Cuánto es 1+1?</title>
+		<answer>2</answer>
+	</question>
+	<question>
+		<type>text</type>
+		<title>¿Cuánto es 2+3?</title>
+		<answer>5</answer>
+	</question>
+	<question>
+		<type>select</type>
+		<title>¿Cuánto es 2+4?</title>
+		<option>2</option>
+		<option>6</option> 
+		<option>5</option>
+		<option>4</option>
+		<answer>1</answer> 
+	</question>
+	<question>
+		<type>select</type>
+		<title>¿Cuánto es 4+1?</title>
+		<option>5</option>
+		<option>4</option> 
+		<option>7</option>
+		<option>1</option>
+		<answer>0</answer> 
+	</question>		 
+	<question>
+		<type>multiple</type>
+		<title>¿Cuánto es 1+3, 5+3, 6+3? </title>
+		<option>4</option>
+		<option>8</option> 
+		<option>7</option> 
+		<option>9</option>
+		<answer>0</answer>
+		<answer>1</answer>
+		<answer>3</answer>
+	</question>
+	<question>
+		<type>multiple</type>
+		<title>¿Cuánto es 10+1, 7+6, 9+3?</title>
+		<option>11</option>
+		<option>13</option> 
+		<option>12</option> 
+		<option>10</option>
+		<answer>0</answer>
+		<answer>1</answer>
+		<answer>2</answer>
+	</question>
+	<question>
+		<type>checkbox</type>
+		<title>¿Cuánto es 7+7, 3+2?</title>
+		<option>14</option>
+		<option>9</option> 
+		<option>4</option> 
+		<option>5</option>
+		<answer>0</answer>
+		<answer>3</answer>
+	</question>
+	<question>
+		<type>checkbox</type>
+		<title>¿Cuánto es 20+12, 19+2?</title>
+		<option>29</option>
+		<option>32</option> 
+		<option>21</option> 
+		<option>30</option>
+		<answer>1</answer>
+		<answer>2</answer>
+	</question>
+	<question >
+		<type>radio</type>
+		<title>¿Cuánto es 6+11?</title>
+		<option>16</option>
+		<option>17</option> 
+		<option>15</option> 
+		<option>20</option>
+		<answer>1</answer>
+	</question>
+	<question>
+		<type>radio</type>
+		<title>¿Cuánto es 9+4?</title>
+		<option>12</option>
+		<option>13</option> 
+		<option>14</option> 
+		<option>15</option>
+		<answer>1</answer>		  
+	</question>		 
+</questions>			
